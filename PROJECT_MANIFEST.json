@@ -1,0 +1,10 @@
+{
+  "name": "VEXORA",
+  "edition": "Dark Cosmic / Space",
+  "version": "2.0.0-persistent",
+  "frontend": "Vite + React",
+  "backend": "Express + SQLite",
+  "persistence": "Environment-configurable persistent data directory",
+  "render": "Starter + Persistent Disk via render.yaml",
+  "data_policy": "No destructive seed/reset on startup; existing records preserved"
+}

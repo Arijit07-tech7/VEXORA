@@ -1,0 +1,15 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
+server/data/backups/
+server/uploads/*
+!server/uploads/.gitkeep
+.env
+server/.env
+.DS_Store
+npm-debug.log*
+server/data/.jwt-secret
